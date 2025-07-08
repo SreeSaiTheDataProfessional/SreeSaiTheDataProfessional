@@ -31,9 +31,11 @@ I'm a data-driven problem solver with over 3 years of experience using analytics
 
 ## 📚 Currently
 
-- Pursuing MS in Computer Science at **Purdue University Northwest**  
-- Exploring opportunities to work on real-world **healthcare, donor analytics, and user behavior** datasets  
-- Learning and building with **Generative AI** and **ML-powered applications**
+📊 Working as a Business Data Analyst at Holiday Channel, driving user behavior analysis and dashboard development.
+
+⚙️ Actively building and contributing to projects in ETL automation, dashboarding, and real-world ML/AI applications.
+
+🚀 Improving my skills in cloud data engineering, and preparing for roles in healthcare and product analytics.
 
 ---
 
