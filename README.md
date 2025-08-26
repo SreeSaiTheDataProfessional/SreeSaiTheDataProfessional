@@ -9,13 +9,10 @@ I'm a data-driven problem solver with over 3 years of experience using analytics
 ## 💼 Professional Journey
 
 - 🏢 **Data Analyst – Holiday Channel**  
-  Analyzing 5,000+ user sessions to uncover product bottlenecks, building dashboards for user engagement, and supporting C2C platform optimization with SQL, Power BI, and Tableau.
 
 - 🎓 **Graduate Assistant – Purdue University Northwest**  
-  Automating donor tracking and campaign analytics using Python and Tableau, supporting real-time fundraising decisions and CRM data quality improvements.
 
 - 🇮🇳 **Data Analyst – KPMG India**  
-  Delivered ETL pipelines, clustering models, and fraud detection tools using Azure Data Factory, Power BI, and Scikit-learn across large-scale enterprise financial data.
 
 ---
 
