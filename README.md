@@ -2,7 +2,7 @@
 
  **Data Analyst | Python • SQL • Power BI • Azure • Tableau**
 
-I'm a data-driven problem solver with over 3 years of experience using analytics and automation to support better decisions across consulting, education, and tech sectors.
+I'm a data-driven problem solver with over 2 years of experience using analytics and automation to support better decisions across consulting, education, and tech sectors.
 
 ---
 
