@@ -1,47 +1,64 @@
 # Hi, I'm Sree Sai Adusumilli 👋
+**Generative AI Engineer | Data Analyst | Python • SQL • LLMs • AWS • Tableau**
 
- **Data Analyst | Python • SQL • Power BI • Azure • Tableau**
-
-I'm a data-driven problem solver with over 2 years of experience using analytics and automation to support better decisions across consulting, education, and tech sectors.
+I'm a CS graduate from Purdue University with 2+ years of experience building AI-powered systems, scalable data pipelines, and agentic LLM workflows — across academia, consulting, and tech sectors.
 
 ---
 
 ## 💼 Professional Journey
 
-- 🏢 **Data Analyst – Holiday Channel**  
-
-- 🎓 **Graduate Assistant – Purdue University Northwest**  
-
-- 🇮🇳 **Data Analyst – KPMG India**  
+- 🤖 **Generative AI Engineer Intern – Holiday Channel** *(Jun 2025 – Present)*
+- 🎓 **Data Analyst (Graduate Assistant) – Purdue University Hammond** *(Aug 2023 – May 2025)*
+- 💻 **Research Development Software Engineer – Beaulah, Inc.** *(Aug 2024 – Dec 2024)*
 
 ---
 
 ## 🛠 Tech Stack & Skills
 
-- **Languages**: SQL, Python (Pandas, NumPy, Seaborn), R  
-- **Dashboards**: Power BI (DAX, RLS), Tableau, Excel  
-- **ETL & Cloud**: Azure Data Factory, DBT, Snowflake, AWS  
-- **Analytics**: A/B Testing, Clustering, Forecasting, EDA, Predictive Modeling  
-- **Tools**: JIRA, ClickUp, Salesforce, Git
+- **Languages**: Python (FastAPI, Flask, Pandas, NumPy), SQL (Oracle, SQL Server), C#, R
+- **Generative AI & LLMs**: RAG Architectures, Prompt Engineering, LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, FAISS, LLM Evaluation (LangSmith)
+- **Dashboards & BI**: Tableau, Power BI, Excel
+- **Cloud & DevOps**: AWS (Step Functions, S3, CloudWatch), Azure, Docker, Kubernetes, CI/CD (GitHub Actions)
+- **Data Engineering**: ETL/ELT Pipelines, Snowflake, MongoDB, dbt
+- **ML & Analytics**: XGBoost, Random Forest, YOLOv8, OCR (PyTesseract), OpenCV, A/B Testing, Predictive Modeling
+
+---
+
+## 🚀 Featured Projects
+
+- 🧪 **QAgent** — Automated QA agent using LLMs, YOLOv8, and OCR to convert SRS docs & UI screenshots into structured test cases. Reduced manual QA effort by 80%+.
+- 🤝 **Multi-Agent Software Dev Pipeline** — LangChain + CrewAI multi-agent system on AWS, coordinating 5 AI agents for automated development tasks with fine-tuned LLaMA/Mistral models.
+- 🚗 **Traffic Accident Severity Prediction** — Hybrid Snowflake + MongoDB warehouse with XGBoost/Random Forest pipelines achieving 93% accuracy on 80,000+ records.
+- 📧 **ReplySense** — Distributed RAG-based AI agent using OpenAI + Gmail API for intent classification and human-in-the-loop email response generation. Improved accuracy by 60%.
 
 ---
 
 ## 📚 Currently
 
-📊 Working as a Business Data Analyst at Holiday Channel, driving user behavior analysis and dashboard development.
+⚙️ Building RAG systems, agentic workflows, and LLM evaluation pipelines at Holiday Channel.
 
-⚙️ Actively building and contributing to projects in ETL automation, dashboarding, and real-world ML/AI applications.
+🌱 Deepening expertise in cloud data engineering, responsible AI, and production-grade LLM deployments.
 
-🚀 Improving my skills in cloud data engineering, and preparing for roles in healthcare and product analytics.
-
----
-
-## 📫 Let’s Connect
-
-- 📍 Based in Indiana, USA  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📬 adusumillisreesai2024@gmail.com
+🎯 Targeting roles in AI/ML Engineering, Data Engineering, and Applied AI.
 
 ---
 
-> “Data is only as powerful as the actions it inspires.”
+## 🏅 Certifications
+
+- 🤖 UiPath Robotic Process Automation (RPA) — UiPath
+- ☁️ Cloud Computing with Azure & AWS — Analyst Builder
+- ❄️ dbt + Snowflake Fundamentals — dbt
+
+---
+
+## 📫 Let's Connect
+
+- 📍 Based in Indiana, USA
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 🧑‍💻 [GitHub](https://github.com/your-github)
+- ⚔️ [LeetCode](https://leetcode.com/your-leetcode)
+- 📬 hire.sreesai@gmail.com
+
+---
+
+> *"Build systems that think, pipelines that scale, and insights that move people to act."*
